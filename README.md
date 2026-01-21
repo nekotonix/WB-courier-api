@@ -2,8 +2,10 @@ Note: The following code is provided strictly for educational purposes only. It 
 
 # Using:
 You need to have an existing WB courier account
+
 Edit example.py, put your phone number into t_num variable
+
 run ``python example.py``
 
 
-In example we have only two functions that search for available deliveries. Other api methods you can find in docs/API.md or decompile by yourself
+* In example we have only two functions that search for available deliveries. Other api methods you can find in docs/API.md or decompile by yourself
